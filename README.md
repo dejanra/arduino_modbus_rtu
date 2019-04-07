@@ -2,6 +2,8 @@
 
 dejan.rakijasic@gmail.com
 
+I am not responsible for any damage caused by this code and/or electric scheme!
+
  MODBUS library written by Jason Vreeland [CodeRage]
  Released 3/7/2010 under GNU license
  https://code.google.com/archive/p/arduino-modbus-slave/downloads
